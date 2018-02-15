@@ -1,0 +1,234 @@
+@media screen and (min-width: 992px){
+    container{
+      width: 500px;
+    }
+    .sidebar{
+      margin: 5px;
+      padding: 0px;
+      margin-bottom: 20px;
+      padding-top: 30px;
+      padding-bottom: 20px
+    }
+    .iconoheader{
+        bottom: 5px;
+    }
+    .texto{
+      font-family: 'Bree Serif', serif;
+        left: 77px;
+        bottom: 30px;
+      color: #269696;
+      font-size: 21px;
+      padding-top: 4px;
+      margin: -8px;
+    }
+    .logo{
+      margin-bottom: 20px;
+      background-color: black;
+      border-radius: 50%;
+      height: 120px;
+      width: 120px;
+      margin-top: 8px;
+      top: 20px;
+      margin-left: 26px;
+    }
+    .der{
+      margin-top: 35px;
+    }
+    .izq{
+      margin-top: 35px;
+    }
+    .carousel{
+      height: 500px;
+    }
+    img{
+      
+      padding: 4px;
+      margin: -4px;
+      height: 500px;
+      width: 100%;
+      margin-left: 3px;
+      
+    }
+    .backpiecar:hover { 
+      background-color: #86c2bb8f;
+    }
+        .backpiecar{
+          padding-top: 15px;
+          height: 60px;
+          border-right: 1px solid #dbe6de;
+          border-left: 1px solid #dbe6de;
+          top: 9px;
+          height: 80px;
+        }
+    .pie2{
+      font-family: 'Bree Serif', serif;
+      font-style: italic;
+      position: absolute;
+      width: 443px;
+      background-color: black;
+      color:white;
+      padding: 13px;
+      height: 50px;
+      margin-left: 8px;
+      margin-top: -145px;
+    }
+    .borde{
+      border: 1px;
+      border-style: dashed;
+  
+    }
+    p{
+      font-size: 10px;
+    }
+    .piecar2{
+      font-family: 'Bree Serif', serif;
+      background-color: #f4fffe8f;
+      bottom: 13px;
+      margin-left: 8px;
+      width: 99%;
+      height: 80px;
+    }
+    .piecar{
+      width: 103%;
+      margin-left: -86px;
+      padding: 0px;
+    }
+    .pie1{
+      font-family: 'Bree Serif', serif;
+      font-style: italic;
+      position: absolute;
+      display: inline-block;
+      bottom: 29%;
+      padding: 18px;
+      height: 50px;
+      margin-left: 8px;
+      margin: 0px;
+      background-color: #ffffff;
+    }
+    .pie3{
+      position: absolute;
+      text-align: right;
+      bottom: 60px;
+      right: 30px;
+      padding: 4px;
+      padding-bottom: 20px;
+      height: 20px;
+      margin-left: 8px;
+      margin: 0px;
+      background-color: #ffffff;
+      opacity: 0.5;
+      border-radius: 10%;
+      font-size: 8px;
+  
+    }
+    .bord{
+      margin-bottom: 3px;
+    }
+    .email{
+      margin: 10px;
+      border-top: 1px dashed #dbe6de;
+      border-bottom: 1px dashed #dbe6de;
+      padding-bottom: 15px;
+      top: 40px;
+    }
+    .carta{
+    text-align: center;
+    }
+    .email1{
+      margin-bottom: 25px;
+      top: 70px;
+    }
+    .email2{
+      margin-top: 15px;
+      margin-left: 5px;
+    }
+    .texemail{
+      font-family: 'Bree Serif', serif;
+      font-style: italic;
+      font-size: 14px;
+      color: #5b5555;
+      margin-top: 8px;
+    }
+    .fotito{
+      margin-bottom: 15px;
+      margin-top: 60px;
+    }
+    .foto{
+      border: 1px solid #dbe6de;
+      margin: 5px;
+      padding: 10px;
+      height: 180px;
+    }
+    .titufoticos{
+      height: 30px;
+      font-family: 'Bree Serif', serif;
+      color: #279898;
+      font-size: 17px;
+      margin-bottom: 3px;
+    }
+    .desfoticos{
+      margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: 'Bree Serif', serif;
+    font-size: 17px;
+    color: rgb(82, 78, 78);
+    margin-left: 5px;
+  }
+    .fecha{
+      margin-left: 22px;
+      color: #bbc5be;
+      font-size: 13px;
+      padding: 0px;
+      margin-top: 3px;
+    }
+    .read{
+      margin-top: 4px;
+      color: #279898;
+      border-bottom: 1px dashed #dbe6de;
+      padding: 0px;
+      margin-left: -27px;
+      font-size: 13px;
+    }
+    .footer{
+      padding-top: 15px;
+      margin: 10px;
+      border-top: 1px solid #dbe6de;
+    }
+    .footer1{
+      padding: 0;
+      text-align: center;
+      color: #279898;
+      font-size: 10px;
+    }
+    .bordef{
+      border-right: 1px solid #dbe6de;
+      border-left: 1px solid #dbe6de;
+    }
+      .twbord{
+        font-family: 'Bree Serif', serif;
+        border-bottom: 1px dashed #dbe6de;
+        margin: 3px;
+        margin-top: 7px;
+        color: gray;
+      }
+      .twbord2{
+        margin-top: 7px;
+        margin: 3px;
+        color: #279898;
+        border: 1px solid #dbe6de;
+        border-radius: 15%;
+        padding-top: 10px;
+        height: 40px;
+        font-size: 14px;
+      }
+      .twfontmini{
+        font-family: 'Bree Serif', serif;
+        font-style: italic;
+        margin-top: 7px;
+        font-size: 16px;
+      }
+      .iconfooter{
+        color: rgb(167, 160, 160);
+        align-content: right;
+      }
+    }

@@ -1,0 +1,25 @@
+.container
+  .row.d-lg-none
+    =render "home/header"
+    =render "home/logo"
+    =render "home/image"
+    =render "home/email"
+    =render "home/fotos"
+    =render "home/footer"
+  .row
+    .col-lg-3.izq
+      .row.d-none.d-lg-block
+        =render "home/logo"
+      .row.d-none.d-lg-block
+        =render "home/header"
+      .row.d-none.d-lg-block
+        =render "home/twitter"
+    .col-lg-9.der.d-none.d-lg-block
+      .row.d-none.d-lg-block
+        =render "home/image"
+      .row.d-lg-block
+        =render "home/email"
+      .row
+        =render "home/fotos"
+    .col-lg-12.der.d-none.d-lg-block
+      =render "home/footer"

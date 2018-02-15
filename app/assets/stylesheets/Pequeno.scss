@@ -1,0 +1,178 @@
+.inline{
+    display: inline-block;
+}
+@media screen and (max-width: 576px){
+.sidebar{
+  margin: 10px;
+  border-bottom: 1px solid #dbe6de;
+  box-shadow: 0px 1px 0px 0px #dbe6de;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+.texto{
+  text-align: center;
+  color: #279898;
+  font-size: 16px;
+  font-family: 'Bree Serif', serif;
+}
+.logo{
+  margin-bottom: 20px;
+  background-color: black;
+  border-radius: 50%;
+  height: 170px;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+}
+img{
+  
+  padding: 4px;
+  margin: -4px;
+  height: 350px;
+  width: 100%;
+  margin-left: 3px;
+
+}
+.pie2{
+  font-family: 'Bree Serif', serif;
+  background-color: black;
+  color:white;
+  padding: 13px;
+  height: 50px;
+  margin-left: 8px;
+  
+}
+.pie1{
+  font-family: 'Bree Serif', serif;
+  font-size: 18px;
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  padding: 18px;
+  height: 50px;
+  margin-left: 8px;
+  margin: 0px;
+  background-color: #ffffff;
+  opacity: 0.8;
+  padding-top: 14px;
+}
+.pie3{
+  height: 30px;
+  text-align: right;
+  font-size: 10px;
+  padding: 10px;
+  padding-top: 15px;
+  font-family: 'Bree Serif', serif;
+  color: 7e7878;
+}
+.bord{
+  margin-bottom: 3px;
+}
+.email{
+  margin: 10px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  border-top: 1px dashed #dbe6de;
+  border-bottom: 1px dashed #dbe6de;
+  padding-bottom: 15px;
+  
+}
+.texemail{
+  font-family: 'Bree Serif', serif;
+  font-style: italic;
+  color: #5b5555;
+}
+.carta{
+text-align: center;
+}
+.email2{
+  margin-top: 15px;
+  margin-left: 5px;
+}
+.tambot{
+  width: 120px;
+  height: 35px;
+
+}
+.fotito{
+  width: 400px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.foto{
+  border: 1px solid #dbe6de;
+  margin: 5px;
+  padding: 10px;
+  margin-left: 20%;
+  margin-bottom: 12px;
+}
+.secf{
+  margin-bottom: 20px;
+}
+.titufoticos{
+  color: #279898;
+  font-size: 21px;
+  margin-bottom: 10px;
+  margin-left: 20%;
+  font-family: 'Bree Serif', serif;
+}
+.desfoticos{
+  margin-bottom: 10px;
+  padding-left: 0px;
+  font-family: 'Bree Serif', serif;
+  font-size: 18px;
+  margin-left: 88px;
+  color: rgb(82, 78, 78);
+}
+.centerfotito{
+  width: 500px;
+}
+.fecha{
+  font-family: 'Bree Serif', serif;
+  color: #b4c0b7;
+  font-size: 16px;
+  padding: 0px;
+  margin-left: 22%;
+}
+.read{
+  font-family: 'Bree Serif', serif;
+  color: #279898;
+  border-bottom: 1px dashed #dbe6de;
+  padding: 0px;
+  margin-left: 0px;
+  font-size: 16px;
+  margin-left: -27%;
+}
+.footer{
+  padding-top: 15px;
+  margin: 10px;
+  border-top: 1px solid #dbe6de;
+}
+.footer1{
+  font-family: 'Bree Serif', serif;
+  text-align: center;
+  font-size: 13px;
+  padding: 0;
+  color: #279898;
+  display: inline-block;
+}
+.f2{
+  text-align: left;
+}
+.bordef{
+  border-right: 1px solid #dbe6de;
+  border-left: 1px solid #dbe6de;
+}
+.iconf{
+  padding: 0px;
+}
+.iconfooter{
+  color: rgb(167, 160, 160);
+  align-content: right;
+}
+.center{
+  padding-left: 2px;
+}
+}
